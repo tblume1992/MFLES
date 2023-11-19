@@ -2,7 +2,7 @@
 A Specific implementation from ThymeBoost written with the help of Numba.
 
 Here is a quick benchmark vs AutoETS from M4:
-![alt text](https://github.com/tblume1992/MFLES/blob/main/static/mfles_benchmark.png?raw=true "benchmark")
+![alt text](https://github.com/tblume1992/MFLES/blob/main/static/mfles_benchmark.PNG?raw=true "benchmark")
 ## Quick Start:
 Install via pip
 ```
