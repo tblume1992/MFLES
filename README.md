@@ -3,6 +3,8 @@ A Specific implementation from ThymeBoost written with the help of Numba.
 
 Here is a quick Introduction:
 
+https://github.com/tblume1992/MFLES/blob/main/examples/MFLES_Intro.ipynb
+
 
 Here is a quick benchmark vs AutoETS from M4:
 ![alt text](https://github.com/tblume1992/MFLES/blob/main/static/mfles_benchmark.PNG?raw=true "benchmark")
