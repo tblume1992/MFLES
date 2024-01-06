@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="MFLES",
-    version="0.1.2",
+    version="0.1.7",
     author="Tyler Blume",
     url="https://github.com/tblume1992/MFLES",
     long_description=long_description,
@@ -18,6 +18,7 @@ setuptools.setup(
       install_requires=[           
                         'numpy',
                         'numba',
+                        'matplotlib'
                         ],
     packages=setuptools.find_packages(),
     classifiers=[
