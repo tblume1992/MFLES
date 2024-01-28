@@ -1,5 +1,5 @@
 # MFLES
-<img src="[https://user-images.githubusercontent.com/link-to-your-image.png](https://github.com/tblume1992/MFLES/blob/main/static/mfles_logo.png)" width="200" height="200"/>
+<img src="[https://user-images.githubusercontent.com/link-to-your-image.png](https://github.com/tblume1992/MFLES/blob/main/static/mfles_logo.png)" width="200" />
 
 A Specific implementation from ThymeBoost written with the help of Numba.
 
