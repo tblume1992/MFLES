@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="MFLES",
-    version="0.1.7",
+    version="0.2.1",
     author="Tyler Blume",
     url="https://github.com/tblume1992/MFLES",
     long_description=long_description,
@@ -17,6 +17,8 @@ setuptools.setup(
     keywords = ['forecasting', 'time series', 'seasonality', 'trend'],
       install_requires=[           
                         'numpy',
+                        'pandas',
+                        'tqdm',
                         'numba',
                         'matplotlib'
                         ],
