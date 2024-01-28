@@ -1,5 +1,6 @@
- ![alt text](https://github.com/tblume1992/MFLES/blob/main/static/mfles_logo.png?raw=true "logo")
 # MFLES
+ ![alt text](https://github.com/tblume1992/MFLES/blob/main/static/mfles_logo.png?raw=true "logo")
+
 A Specific implementation from ThymeBoost written with the help of Numba.
 
 Here is a quick Introduction and demonstration of methods such as Conformal Prediction Intervals and seasonality decomposition:
