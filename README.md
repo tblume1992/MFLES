@@ -1,4 +1,4 @@
-# MFLES
+# MFLES v0.2.2
  ![alt text](https://github.com/tblume1992/MFLES/blob/main/static/mfles_logo.png?raw=true "logo")
 
 A Specific implementation from ThymeBoost written with the help of Numba.
